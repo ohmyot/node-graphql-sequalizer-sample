@@ -1,0 +1,7 @@
+type Query {
+    getItems: Admin
+}
+
+type Admin {
+    userId: String
+}
